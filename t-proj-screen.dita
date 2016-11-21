@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_projector_screen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Lower the Projector Screen</title>
+    <taskbody>
+        <context>
+            <p>If you are planning on having any sort of visual presentation in Shanks hall, you will need to use the projector screen. The steps to using the projector screen are listed below.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate the light-switches in the classroom. They will most likely be by one of the entrances.</cmd>
+            </step>
+            <step>
+                <cmd>Find the swtich that has "up/down" on it. It will look like this:
+                        <image
+                        href="../../Pictures/Photos%20Library.photoslibrary/resources/modelresources/67/78/CNLNRhtiTXGSDZkC8%25MWfQ/IMG_0739.jpg"
+                        width="1.5in" height="1.5in" id="image_sbl_k3d_1y"/></cmd>
+            </step>
+            <step>
+                <cmd>Flip the switch to "down" to lower the projector.</cmd>
+            </step>
+            <step>
+                <cmd>Once you are done with you presentation, flip the switch to "up" to raise the projector up.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

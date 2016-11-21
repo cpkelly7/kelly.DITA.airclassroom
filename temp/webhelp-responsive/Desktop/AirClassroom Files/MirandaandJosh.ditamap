@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/cpkelly07/Desktop/AirClassroom Files/temp/webhelp-responsive/Desktop/AirClassroom Files?><?workdir-uri file:/Users/cpkelly07/Desktop/AirClassroom%20Files/temp/webhelp-responsive/Desktop/AirClassroom%20Files/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Learning BookMap//EN?><?doctype-system learningbookmap.dtd?><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (map learningmap-d)                            (topic learningmeta-d)                            (topic relmgmt-d)                            (topic ut-d)                            (topic xnal-d)   " xtrc="bookmap:1;3:10" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap">
+    <booktitle class="- topic/title bookmap/booktitle " xtrc="booktitle:1;4:16" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle " xtrc="mainbooktitle:1;5:25" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+    </booktitle>
+    <chapter class="- map/topicref bookmap/chapter " href="c-air-intro.dita" xtrc="chapter:1;7:39" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+    <chapter class="- map/topicref bookmap/chapter " href="t-airclassroom-account.dita" xtrc="chapter:2;8:50" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+    <chapter class="- map/topicref bookmap/chapter " href="top-air-booking.dita" xtrc="chapter:3;9:42" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap">
+        <topicref class="- map/topicref " href="t-finding-a-place.dita" xtrc="topicref:1;10:50" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+        <topicref class="- map/topicref " href="t-booking-a-place.dita" xtrc="topicref:2;11:50" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+    </chapter>
+    <chapter class="- map/topicref bookmap/chapter " href="top-shanks-features.dita" xtrc="chapter:4;13:46" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap">
+        <topicref class="- map/topicref " href="t-proj-screen.dita" xtrc="topicref:3;14:46" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+        <topicref class="- map/topicref " href="t-doc-projector.dita" xtrc="topicref:4;15:48" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+        <topicref class="- map/topicref " href="t-epson-projector.dita" xtrc="topicref:5;16:50" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+        <topicref class="- map/topicref " href="t-speakers.dita" xtrc="topicref:6;17:43" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+    </chapter>
+    <chapter class="- map/topicref bookmap/chapter " href="ts-shanks.dita" xtrc="chapter:5;19:37" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+    <chapter class="- map/topicref bookmap/chapter " href="top-air-references.dita" xtrc="chapter:6;20:46" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/MirandaandJosh.ditamap"/>
+</bookmap>

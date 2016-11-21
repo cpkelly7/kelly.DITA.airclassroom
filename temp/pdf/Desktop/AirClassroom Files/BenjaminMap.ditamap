@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/cpkelly07/Desktop/AirClassroom Files/temp/pdf/Desktop/AirClassroom Files?><?workdir-uri file:/Users/cpkelly07/Desktop/AirClassroom%20Files/temp/pdf/Desktop/AirClassroom%20Files/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " xtrc="map:1;3:6" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap">
+ <title class="- topic/title " xtrc="title:1;4:10" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+ <topicref class="- map/topicref " href="c-air-intro.dita" xtrc="topicref:1;5:37" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+ <topicref class="- map/topicref " href="t-airclassroom-account.dita" xtrc="topicref:2;6:48" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+ <topicref class="- map/topicref " href="top-air-booking.dita" xtrc="topicref:3;7:40" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap">
+  <topicref class="- map/topicref " href="t-finding-a-place.dita" xtrc="topicref:4;8:44" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+  <topicref class="- map/topicref " href="t-booking-a-place.dita" xtrc="topicref:5;9:44" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+ </topicref>
+ <topicref class="- map/topicref " href="top-shanks-features.dita" xtrc="topicref:6;11:44" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap">
+  <topicref class="- map/topicref " href="t-proj-screen.dita" xtrc="topicref:7;12:40" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+  <topicref class="- map/topicref " href="t-doc-projector.dita" xtrc="topicref:8;13:42" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+  <topicref class="- map/topicref " href="t-epson-projector.dita" xtrc="topicref:9;14:44" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+  <topicref class="- map/topicref " href="t-speakers.dita" xtrc="topicref:10;15:37" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+  <topicref class="- map/topicref " href="t-adjust-chairs.dita" xtrc="topicref:11;16:42" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+  <topicref class="- map/topicref " href="t-adjust-windows.dita" xtrc="topicref:12;17:43" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+ </topicref>
+ <topicref class="- map/topicref " href="ts-shanks.dita" xtrc="topicref:13;19:35" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+ <topicref class="- map/topicref " href="top-air-references.dita" xtrc="topicref:14;20:44" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/BenjaminMap.ditamap"/>
+</map>

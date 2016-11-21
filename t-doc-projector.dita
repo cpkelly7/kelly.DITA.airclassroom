@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_document_projector" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Use the UF-80ST Samsung Digital Presenter</title>
+    <taskbody>
+        <context>
+            <p>The UF-80ST Samsung Digital Presenter, also known as the document projector, can be
+                an extremely useful tool if you want to project certain documents, books, or objects
+                to your audience. Since it is already plugged in to the computer in Shanks, it will
+                be fairly simple to use. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Lower the projector screen. Instructions found in "How to Lower the Projector Screen."</cmd>
+            </step>
+            <step>
+                <cmd>Turn on the document projector by pressing the power button.</cmd>
+            </step>
+            <step>
+                <cmd>Place your object on the document plate.</cmd>
+            </step>
+            <step>
+                <cmd>Adjust the head of the projector to put your object into view.</cmd>
+            </step>
+            <step>
+                <cmd>Turn on the projector's lamp by pressing the "lamp" button. If the lamp helps, keep it on. If the lamp light does not help, press the "lamp" button again to turn it off.</cmd>
+            </step>
+            <step>
+                <cmd>Press the "AF" button to auto-focus your object.</cmd>
+                <info>
+                    <note type="note">Your object should be clearly projected on the screen right
+                        now. If it is still not clear or bright enough, refer to the
+                        "troubleshooting" section. </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

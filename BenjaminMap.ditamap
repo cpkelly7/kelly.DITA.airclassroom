@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title/>
+ <topicref href="c-air-intro.dita"/>
+ <topicref href="t-airclassroom-account.dita"/>
+ <topicref href="top-air-booking.dita">
+  <topicref href="t-finding-a-place.dita"/>
+  <topicref href="t-booking-a-place.dita"/>
+ </topicref>
+ <topicref href="top-shanks-features.dita">
+  <topicref href="t-proj-screen.dita"/>
+  <topicref href="t-doc-projector.dita"/>
+  <topicref href="t-epson-projector.dita"/>
+  <topicref href="t-speakers.dita"/>
+  <topicref href="t-adjust-chairs.dita"/>
+  <topicref href="t-adjust-windows.dita"/>
+ </topicref>
+ <topicref href="ts-shanks.dita"/>
+ <topicref href="top-air-references.dita"/>
+</map>

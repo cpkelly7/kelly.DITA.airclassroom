@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/cpkelly07/Desktop/AirClassroom Files/temp/pdf/Desktop/AirClassroom Files?><?workdir-uri file:/Users/cpkelly07/Desktop/AirClassroom%20Files/temp/pdf/Desktop/AirClassroom%20Files/?><?path2project?><?path2project-uri ./?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_create_an_account" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd" class="- topic/topic task/task " DITAArchVersion="1.3" domains="(topic abbrev-d) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d xml-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic svg-d) (topic sw-d) (topic task strictTaskbody-c) (topic task) (topic ui-d) (topic ut-d) a(props deliveryTarget)" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="task:1;3:74">
+    <title class="- topic/title " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="title:1;4:12">How to Create an AirClassroom Account</title>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="taskbody:1;5:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="context:1;6:18">
+            <p class="- topic/p " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="p:1;7:16">You must have an AirClassroom Account to book a room on AirClassroom. Creating an account is free and simple on AirClassroom!</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="cmd:1;11:22">Go to www.airclassroom.com and click on "Sign Up" at the top right corner.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="cmd:2;14:22">Choose from sign-up with Facebook, Google, or E-mail. Follow the given instructions on AirClassroom for whichever way you sign up.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="step:3;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="cmd:3;17:22">After you sign up, make sure to complete your account on AirClassroom.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="info:1;18:23">
+                    <note type="note" class="- topic/note " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-airclassroom-account.dita" xtrc="note:1;19:39">You will not be able to reserve a room on AirClassroom without completing your profile. You are required to include your full name, e-mail address, phone number, profile picture, introductory message, agreement to house rules, and payment information. The Shanks Hall hosts will not have access to personal information, such as your e-mail.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

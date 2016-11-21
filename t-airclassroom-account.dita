@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_create_an_account" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Create an AirClassroom Account</title>
+    <taskbody>
+        <context>
+            <p>You must have an AirClassroom Account to book a room on AirClassroom. Creating an account is free and simple on AirClassroom!</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to www.airclassroom.com and click on "Sign Up" at the top right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Choose from sign-up with Facebook, Google, or E-mail. Follow the given instructions on AirClassroom for whichever way you sign up.</cmd>
+            </step>
+            <step>
+                <cmd>After you sign up, make sure to complete your account on AirClassroom.</cmd>
+                <info>
+                    <note type="note">You will not be able to reserve a room on AirClassroom without completing your profile. You are required to include your full name, e-mail address, phone number, profile picture, introductory message, agreement to house rules, and payment information. The Shanks Hall hosts will not have access to personal information, such as your e-mail.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

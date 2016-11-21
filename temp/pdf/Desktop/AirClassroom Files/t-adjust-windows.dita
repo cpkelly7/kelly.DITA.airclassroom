@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/cpkelly07/Desktop/AirClassroom Files/temp/pdf/Desktop/AirClassroom Files?><?workdir-uri file:/Users/cpkelly07/Desktop/AirClassroom%20Files/temp/pdf/Desktop/AirClassroom%20Files/?><?path2project?><?path2project-uri ./?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t_windows" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd" class="- topic/topic task/task " DITAArchVersion="1.3" domains="(topic abbrev-d) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d xml-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic svg-d) (topic sw-d) (topic task strictTaskbody-c) (topic task) (topic ui-d) (topic ut-d) a(props deliveryTarget)" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="task:1;3:74">
+    <title class="- topic/title " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="title:1;4:12">How to Adjust the Blinds in Shanks Hall</title>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="taskbody:1;5:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="context:1;6:18">
+            <p class="- topic/p " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="p:1;7:16">Natural lighting can help create a more serene working or studying environment. This
+                task will cover how to adjust the blinds in Shanks Hall so you can get your
+                preferred lighting. <image href="../../Pictures/Photos%20Library.photoslibrary/Masters/2016/11/17/20161117-155828/IMG_0737.JPG" width="1.5in" height="2in" id="image_yjz_tqd_1y" class="- topic/image " placement="inline" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="image:1;11:71"/></p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="steps:1;13:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="step:1;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="cmd:1;15:22">Locate the silver chain that adjusts the blinds.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="step:2;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="cmd:2;18:22">Pull on the silver chain while moving it slightly to the left. Keep pulling on the chain until you have the desired amount of natural lighting.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="step:3;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="cmd:3;21:22">Once you have your desired lighting, move the chain to the right and let go.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="step:4;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-adjust-windows.dita" xtrc="cmd:4;24:22">If you want to put the blinds back down, pull the chain, move it slightly to the left, and let go.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

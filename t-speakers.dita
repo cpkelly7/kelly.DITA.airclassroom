@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_speakers" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Use the Harman/Kardon Speakers</title>
+    <taskbody>
+        <context>
+            <p>The Harman/Kardon Speakers provided in Shanks 180 and 360 are already plugged into
+                the Mac desktop and will be simple to use!
+                    <image href="../harman:kardon.jpeg" width="1.5in" height="1in"
+                    id="image_z5z_wsd_1y"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn the volume dial on the right speaker to your desired volume.</cmd>
+            </step>
+            <step>
+                <cmd>Begin playing the music, video, or audio file on the computer.</cmd>
+            </step>
+            <step>
+                <cmd>Adjust the volume more, if needed. Also, you may want to adjust the tone dial if the sound is still not clear.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

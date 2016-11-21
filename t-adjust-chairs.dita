@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_adjust_chairs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Adjust the Swivel Chairs</title>
+    <taskbody>
+        <context>
+            <p>The swivel chairs in Shanks Hall are wonderful for comfort and space, but they often
+                have to be adjusted since so many people use them on a daily basis. This task will
+                cover how to adjust the swivel chairs. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate the lever underneath of the seat.</cmd>
+            </step>
+            <step>
+                <cmd>Push the lever up to raise the chair's height. To lower the chair's height, push the lever down.</cmd>
+                <info>
+                    <note type="note">Do this slowly. Adjust the height by centimeters or inches at a time.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Let go of the lever once it is at your desired height.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

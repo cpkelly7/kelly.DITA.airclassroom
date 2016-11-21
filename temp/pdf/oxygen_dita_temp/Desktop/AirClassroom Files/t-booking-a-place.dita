@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/cpkelly07/Desktop/AirClassroom Files/temp/pdf/oxygen_dita_temp/Desktop/AirClassroom Files?><?workdir-uri file:/Users/cpkelly07/Desktop/AirClassroom%20Files/temp/pdf/oxygen_dita_temp/Desktop/AirClassroom%20Files/?><?path2project?><?path2project-uri ./?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_booking" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd" class="- topic/topic task/task " DITAArchVersion="1.3" domains="(topic abbrev-d) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d xml-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic svg-d) (topic sw-d) (topic task strictTaskbody-c) (topic task) (topic ui-d) (topic ut-d) a(props deliveryTarget)" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="task:1;3:74">
+    <title class="- topic/title " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="title:1;4:12">How to Book a Classroom on AirClassroom</title>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="taskbody:1;5:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="context:1;6:18">
+            <p class="- topic/p " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="p:1;7:16">Booking a room on AirClassroom can be tedious because of cost and availability, so it
+                is important that you understand the steps of the booking process. Make sure that
+                you have completed your AirClassroom profile completely and that you are signed in,
+                otherwise you will not be able to book on AirClassroom.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="steps:1;12:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="step:1;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="cmd:1;14:22">Once you have found the classroom you want, click on "Request to Book" on the
+                    right side of the screen.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="info:1;16:23">
+                    <note type="note" class="- topic/note " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="note:1;17:39">A new screen will open after you select "request to book."</note>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="step:2;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="cmd:2;21:22">Enter in your payment information in the new window</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="step:3;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="cmd:3;24:22">Click "submit"</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="info:2;25:23">
+                    <note type="note" class="- topic/note " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-booking-a-place.dita" xtrc="note:2;26:39">The classroom host will respond to your reservation request within 24 hours. If they accept, the request will be automatically confirmed. If denied, the payment will not go through and the request will be deleted.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_booking" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Book a Classroom on AirClassroom</title>
+    <taskbody>
+        <context>
+            <p>Booking a room on AirClassroom can be tedious because of cost and availability, so it
+                is important that you understand the steps of the booking process. Make sure that
+                you have completed your AirClassroom profile completely and that you are signed in,
+                otherwise you will not be able to book on AirClassroom.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Once you have found the classroom you want, click on "Request to Book" on the
+                    right side of the screen.</cmd>
+                <info>
+                    <note type="note">A new screen will open after you select "request to book."</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter in your payment information in the new window</cmd>
+            </step>
+            <step>
+                <cmd>Click "submit"</cmd>
+                <info>
+                    <note type="note">The classroom host will respond to your reservation request within 24 hours. If they accept, the request will be automatically confirmed. If denied, the payment will not go through and the request will be deleted.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

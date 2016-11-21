@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_finding_a_place" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Find a Room on AirClassroom</title>
+    <taskbody>
+        <context>
+            <p>With the variety of classrooms on Virginia Tech's campus, you will want to make sure you find a classroom that meets all of your needs an expectations. By conducting a proper search, you will get the results you need. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to www.airclassroom.com and locate the "search" bar on the main page</cmd>
+            </step>
+            <step>
+                <cmd>In the search bar, enter in the date(s) you need the classroom, the amount of people, and the hall preference (if you have one in mind). Once filled out, click "search." </cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Type in "Shanks Hall" for the hall preference to make the search easier.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>If you don't like any of the classrooms you see, click on "Filters" to add more search options, such as price, size, and classroom capabilities..</cmd>
+            </step>
+            <step>
+                <cmd>Click on each listing to get more details about the classroom.</cmd>
+            </step>
+            <step>
+                <cmd>When you find something you like, refer to the "How to Book a Room on AirClassroom" section of this guide.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

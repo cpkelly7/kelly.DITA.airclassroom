@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/cpkelly07/Desktop/AirClassroom Files/temp/webhelp-responsive/Desktop/AirClassroom Files?><?workdir-uri file:/Users/cpkelly07/Desktop/AirClassroom%20Files/temp/webhelp-responsive/Desktop/AirClassroom%20Files/?><?path2project?><?path2project-uri ./?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t_projector_screen" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd" class="- topic/topic task/task " DITAArchVersion="1.3" domains="(topic abbrev-d) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d xml-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic svg-d) (topic sw-d) (topic task strictTaskbody-c) (topic task) (topic ui-d) (topic ut-d) a(props deliveryTarget)" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="task:1;3:74">
+    <title class="- topic/title " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="title:1;4:12">How to Lower the Projector Screen</title>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="taskbody:1;5:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="context:1;6:18">
+            <p class="- topic/p " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="p:1;7:16">If you are planning on having any sort of visual presentation in Shanks hall, you will need to use the projector screen. The steps to using the projector screen are listed below.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="cmd:1;11:22">Locate the light-switches in the classroom. They will most likely be by one of the entrances.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="cmd:2;14:22">Find the swtich that has "up/down" on it. It will look like this:
+                        <image href="../../Pictures/Photos%20Library.photoslibrary/resources/modelresources/67/78/CNLNRhtiTXGSDZkC8%25MWfQ/IMG_0739.jpg" width="1.5in" height="1.5in" id="image_sbl_k3d_1y" class="- topic/image " placement="inline" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="image:1;17:77"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="step:3;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="cmd:3;20:22">Flip the switch to "down" to lower the projector.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="step:4;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-proj-screen.dita" xtrc="cmd:4;23:22">Once you are done with you presentation, flip the switch to "up" to raise the projector up.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

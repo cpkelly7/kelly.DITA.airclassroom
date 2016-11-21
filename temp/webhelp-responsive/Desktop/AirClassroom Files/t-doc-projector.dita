@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/cpkelly07/Desktop/AirClassroom Files/temp/webhelp-responsive/Desktop/AirClassroom Files?><?workdir-uri file:/Users/cpkelly07/Desktop/AirClassroom%20Files/temp/webhelp-responsive/Desktop/AirClassroom%20Files/?><?path2project?><?path2project-uri ./?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t_document_projector" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd" class="- topic/topic task/task " DITAArchVersion="1.3" domains="(topic abbrev-d) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d xml-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic svg-d) (topic sw-d) (topic task strictTaskbody-c) (topic task) (topic ui-d) (topic ut-d) a(props deliveryTarget)" xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="task:1;3:74">
+    <title class="- topic/title " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="title:1;4:12">How to Use the UF-80ST Samsung Digital Presenter</title>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="taskbody:1;5:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="context:1;6:18">
+            <p class="- topic/p " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="p:1;7:16">The UF-80ST Samsung Digital Presenter, also known as the document projector, can be
+                an extremely useful tool if you want to project certain documents, books, or objects
+                to your audience. Since it is already plugged in to the computer in Shanks, it will
+                be fairly simple to use. </p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="steps:1;12:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="step:1;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="cmd:1;14:22">Lower the projector screen. Instructions found in "How to Lower the Projector Screen."</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="step:2;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="cmd:2;17:22">Turn on the document projector by pressing the power button.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="step:3;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="cmd:3;20:22">Place your object on the document plate.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="step:4;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="cmd:4;23:22">Adjust the head of the projector to put your object into view.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="step:5;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="cmd:5;26:22">Turn on the projector's lamp by pressing the "lamp" button. If the lamp helps, keep it on. If the lamp light does not help, press the "lamp" button again to turn it off.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="step:6;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="cmd:6;29:22">Press the "AF" button to auto-focus your object.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="info:1;30:23">
+                    <note type="note" class="- topic/note " xtrf="file:/Users/cpkelly07/Desktop/AirClassroom%20Files/t-doc-projector.dita" xtrc="note:1;31:39">Your object should be clearly projected on the screen right
+                        now. If it is still not clear or bright enough, refer to the
+                        "troubleshooting" section. </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

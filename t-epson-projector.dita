@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_epson_projector" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Use the Epson Projector</title>
+    <taskbody>
+        <context>
+            <p>Luckily, the Epson projector has already been set up in both Shanks 180 and 360. It is very simple to use this projector for your presentations.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Lower the projector screen. Instructions found in "How to Lower the Projection Screen."</cmd>
+            </step>
+            <step>
+                <cmd>Log into the Mac desktop computer that is on the main desk near the front of the classroom.</cmd>
+            </step>
+            <step>
+                <cmd>Locate the Epson remote. It should be on the main desk and it will look like
+                    this: <image href="../remote.jpg" width="1in" height="1in" id="image_npz_34d_1y"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Press the power button on the Epson remote.</cmd>
+                <info>
+                    <note type="note">This will turn on the projector. Once the projector is turned on, your computer screen will be immediately projected onto the projector screen.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>If you would like for your computer screen to freeze for whatever reason, press the "freeze" button on the Epson remote. To un-freeze, press "freeze" again.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

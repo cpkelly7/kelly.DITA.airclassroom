@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_windows" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Adjust the Blinds in Shanks Hall</title>
+    <taskbody>
+        <context>
+            <p>Natural lighting can help create a more serene working or studying environment. This
+                task will cover how to adjust the blinds in Shanks Hall so you can get your
+                preferred lighting. <image
+                    href="../../Pictures/Photos%20Library.photoslibrary/Masters/2016/11/17/20161117-155828/IMG_0737.JPG"
+                    width="1.5in" height="2in" id="image_yjz_tqd_1y"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate the silver chain that adjusts the blinds.</cmd>
+            </step>
+            <step>
+                <cmd>Pull on the silver chain while moving it slightly to the left. Keep pulling on the chain until you have the desired amount of natural lighting.</cmd>
+            </step>
+            <step>
+                <cmd>Once you have your desired lighting, move the chain to the right and let go.</cmd>
+            </step>
+            <step>
+                <cmd>If you want to put the blinds back down, pull the chain, move it slightly to the left, and let go.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

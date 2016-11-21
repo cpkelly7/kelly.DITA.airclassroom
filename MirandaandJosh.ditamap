@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA Learning BookMap//EN" "learningbookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle/>
+    </booktitle>
+    <chapter href="c-air-intro.dita"/>
+    <chapter href="t-airclassroom-account.dita"/>
+    <chapter href="top-air-booking.dita">
+        <topicref href="t-finding-a-place.dita"/>
+        <topicref href="t-booking-a-place.dita"/>
+    </chapter>
+    <chapter href="top-shanks-features.dita">
+        <topicref href="t-proj-screen.dita"/>
+        <topicref href="t-doc-projector.dita"/>
+        <topicref href="t-epson-projector.dita"/>
+        <topicref href="t-speakers.dita"/>
+    </chapter>
+    <chapter href="ts-shanks.dita"/>
+    <chapter href="top-air-references.dita"/>
+</bookmap>
